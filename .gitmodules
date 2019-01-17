@@ -1,3 +1,6 @@
 [submodule "Leizu-elk"]
 	path = Leizu-elk
 	url = git@github.com:zhigui-projects/Leizu-elk.git
+[submodule "Leizu-api"]
+	path = Leizu-api
+	url = git@github.com:zhigui-projects/Leizu-api.git
