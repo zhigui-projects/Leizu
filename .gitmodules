@@ -4,3 +4,6 @@
 [submodule "Leizu-api"]
 	path = Leizu-api
 	url = git@github.com:zhigui-projects/Leizu-api.git
+[submodule "Leizu-ui"]
+	path = Leizu-ui
+	url = git@github.com:zhigui-projects/Leizu-ui.git
